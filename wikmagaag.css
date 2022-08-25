@@ -1,0 +1,103 @@
+html {
+    background-color:white;
+}
+.maga {
+    color: black;
+    position: absolute;
+    top: 0px;
+    left: 6px;   
+}
+.axtaris {
+    border-radius: 20px;
+    height: 30px;
+    color: indianred;
+    position: relative;
+    width: 400px;
+    top: 120px;
+}
+#button {
+    border-radius: 20px;
+    position: relative;
+    background-color: black;
+    color: white;
+    top: -90px;
+    height: 40px;
+}
+#axtaris {
+    background-color: white;
+    color: black;
+    top: 20px;
+}
+#panel {
+    position: absolute;
+    background-color: black;
+            color: white;
+            height: 42px;
+            width: 120px;
+            margin-right: 10px;
+            cursor: pointer;
+    background-color: black;
+    border-radius: 20px;
+    left: 20px;
+    top: 120px;
+}
+.s {
+    position: absolute;
+    background-color: black;
+            color: white;
+            height: 42px;
+            width: 120px;
+            margin-right: 10px;
+            cursor: pointer;
+            left: 1400px;
+            top: 20px;
+}
+#button:hover { 
+            color: black;
+            background-color: white;
+    }
+#panel:hover { 
+            color: black;
+            background-color: white;
+        }
+.s:hover { 
+            color: black;
+            background-color: white;
+        }
+.yazi {
+    width: 50px;
+    color: black;
+}
+#canli {
+    color: white;
+    background-color: black;
+    border-radius: 20px;
+    height: 40px;
+    position: absolute;
+    left: 20px;
+    top: 180px;
+
+}
+.evlilik {
+    color: white;
+    background-color: black;
+    border-radius: 20px;
+    height: 40px;
+    position: absolute;
+    top: 260px;
+    left: 20px;
+}
+.evlilik:hover { 
+            color: black;
+            background-color: white;
+        }
+
+.agtema {
+    background-color: black;
+    color: white;
+    position: absolute;
+    border-radius: 20px;
+    height: 30px;
+    left: 1400px;
+    top: 100px;
+}

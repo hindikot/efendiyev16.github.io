@@ -1,0 +1,28 @@
+html {
+    background-color: black;
+}
+.ad {
+    position: absolute;
+    top: 300px;
+    left: 700px;
+    height: 24px;
+
+}
+.ornek {
+    color: red;
+    position: absolute;
+    top: 160px;
+    left: 650px;
+}
+.buton {
+    background-color: red;
+    position: absolute;
+    top: 380px;
+    left: 750px;
+}
+.cavo {
+    position: absolute;
+    top: 580px;
+    left: 1320px;
+    width: 200px;
+}
